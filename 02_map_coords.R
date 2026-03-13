@@ -88,6 +88,3 @@ m
 
 library(htmlwidgets)
 saveWidget(m, "~/Documents/GitHub/gbr-spatial-data/index.html", selfcontained = TRUE)
-
-library(htmlwidgets)
-saveWidget(m, "~/Documents/map.html", selfcontained = TRUE)
